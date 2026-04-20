@@ -1,0 +1,10 @@
+location_id,location_name,parameter,sensor_id,sensor_name,units,display_name,sensor_datetime_first_utc,sensor_datetime_last_utc,sensor_coverage_percent
+3099020,Dubai Motor City,pm10,10877517,pm10 µg/m³,µg/m³,PM10,2024-10-08T05:00:00Z,2025-01-13T23:00:00Z,219400.0
+3099020,Dubai Motor City,pm25,10877520,pm25 µg/m³,µg/m³,PM2.5,2024-10-08T05:00:00Z,2026-04-20T08:00:00Z,1218800.0
+3099020,Dubai Motor City,temperature,10877515,temperature c,c,Temperature (C),2024-10-08T05:00:00Z,2026-04-20T08:00:00Z,1218800.0
+3092518,Serena,pm10,10833870,pm10 µg/m³,µg/m³,PM10,2024-10-04T10:00:00Z,2025-01-13T23:00:00Z,234500.0
+3092518,Serena,pm25,10833851,pm25 µg/m³,µg/m³,PM2.5,2024-10-04T10:00:00Z,2026-04-20T08:00:00Z,1255300.0
+3092518,Serena,temperature,10833868,temperature c,c,Temperature (C),2024-10-04T10:00:00Z,2026-04-20T08:00:00Z,1255300.0
+2981155,The Views,pm10,10071467,pm10 µg/m³,µg/m³,PM10,2024-07-25T16:00:00Z,2025-01-13T23:00:00Z,401000.0
+2981155,The Views,pm25,10071461,pm25 µg/m³,µg/m³,PM2.5,2024-07-25T16:00:00Z,2026-04-20T08:00:00Z,1420900.0
+2981155,The Views,temperature,10071465,temperature c,c,Temperature (C),2024-07-25T16:00:00Z,2026-04-20T08:00:00Z,1420900.0

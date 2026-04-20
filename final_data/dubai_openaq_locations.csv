@@ -1,0 +1,4 @@
+requested_label,location_id,location_name,locality,country_code,timezone,provider,owner,latitude,longitude,location_datetime_first_utc,location_datetime_last_utc
+Dubai Motor City,3099020,Dubai Motor City,,AE,Asia/Dubai,AirGradient,Akis,25.046136176968492,55.24946085563235,2024-10-08T05:00:00Z,2026-04-20T08:00:00Z
+Serena,3092518,Serena,,AE,Asia/Dubai,AirGradient,Scottyboi,25.03432,55.28811,2024-10-04T10:00:00Z,2026-04-20T08:00:00Z
+The Views,2981155,The Views,,AE,Asia/Dubai,AirGradient,Cheeseman,25.092213,55.168125,2024-07-25T16:00:00Z,2026-04-20T08:00:00Z
